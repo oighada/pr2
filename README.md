@@ -1,2 +1,2 @@
 # pr2 
-prjectt.html
+projectt.html
